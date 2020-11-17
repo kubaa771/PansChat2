@@ -1,0 +1,6 @@
+framework module Pods_PansChat2 {
+  umbrella header "Pods-PansChat2-umbrella.h"
+
+  export *
+  module * { export * }
+}
